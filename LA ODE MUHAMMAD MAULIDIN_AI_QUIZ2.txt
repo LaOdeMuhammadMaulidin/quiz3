@@ -1,0 +1,27 @@
+NAMA  :LA ODE MUHAMMAD MAULIDIN
+COURSE:AI
+QUIZ 2:Buatlah analisis materi dengan topik Git. Analisis tersebut dikumpulkan dalam file bentuk txt
+
+Git adalah singkatan dari Group Inclusive Tour. Git merupakan version control system yang gratis dan juga open source. nah perlu kita ketahui apa sebenarnya version control system itu,version control system adalah sistem yang dapat merekam semua perubahan pada kode yang kita buat, sehingga kita dapat kembali ke versi yang kita inginkan.Git dirancang untuk menangani segala project baik itu project besar atau project sederhana. Git memungkinkan para pengembang untuk bekerja secara bersama-sama pada proyek yang sama dan melacak setiap perubahan yang dilakukan pada source code.
+Git mempunyai 2 sistem  yaitu centralized dan distributed. Git centralized berkerja hanya dengan menggunakan satu server yang berfungsi untuk menyimpan data dari project, sedangkan git distributed bekerja dengan menyimpan data project di lokal dan juga di server.
+Git memiliki beberapa fitur antara lain yaitu: 
+1. Version Control berfungsi menyimpan setiap perubahan uamg diubah pada source code sehingga memungkinkan pengguna untuk memantau maupun mengelola data yang ada.
+2.git branch berfungsi untuk penambahan fitur baru tidak mengganggu source code utama. Ketika pengerjaan dari fitur baru sudah diselesaikan dan sudah di testing, maka branch feature akan dimerge ke dalam branch master/main.
+3. merging berfungsi untuk menggabungkan beberapa branch yang sudah di tesitng
+4. staging area berfungsi untuk memilih perubahan mana yang akan di-commit ke repository.
+5. git rebase berguna untuk menggabungkan commit base 
+6. hooks merupakan script yang akan jalan secara otomatis jika ada sesuatu yang terjadi pada git
+7. GUI tools 
+
+selain fitur fitu yang tersedia git pastinya memiliki keunggulan dan kelemahan dalam menjalankannya. Kelebihan git yaitu :
+1. dapat mengelola kode dengan efisien
+2. dapat melakukan branching dengan aman
+3. dapat melacalk perubahan pada setiap code
+4. performa yang efisien
+sedangkan kelemahan git yaitu :
+1. membingungkan karena fiturnya terlalu kompleks
+2. sulit di gunakan ntuk file gambar atau vidio
+3. harus memiliki dasar istilah istilah dalam git
+
+kesimpulannya yaitu Git adalah sistem kontrol versi yang kuat dan fleksibel yang memungkinkan pengembang untuk mengelola perubahan dengan efisien, berkolaborasi secara efektif, dan mengamankan proyek kita.
+Kemudian ada juga website penyedia untuk mengakses repository git yaitu github dan gitlab dimana keduanya memiliki fitur serta kekurangan dan kelebihan masing masing
