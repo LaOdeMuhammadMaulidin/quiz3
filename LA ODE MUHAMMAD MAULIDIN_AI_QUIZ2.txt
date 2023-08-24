@@ -25,4 +25,3 @@ sedangkan kelemahan git yaitu :
 
 kesimpulannya yaitu Git adalah sistem kontrol versi yang kuat dan fleksibel yang memungkinkan pengembang untuk mengelola perubahan dengan efisien, berkolaborasi secara efektif, dan mengamankan proyek kita.
 Kemudian ada juga website penyedia untuk mengakses repository git yaitu github dan gitlab dimana keduanya memiliki fitur serta kekurangan dan kelebihan masing masing
-git meruapaka vcs
